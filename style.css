@@ -15,3 +15,9 @@ h1 {
 #details {
   text-align: center;
 }
+
+#details > a {
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: grey
+}
