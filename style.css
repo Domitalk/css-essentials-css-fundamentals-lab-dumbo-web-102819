@@ -43,4 +43,7 @@ section#featured-property > p {
 
 #details > div {
   float: left;
+  background-color: #708090;
+  text-align: center;
+  width: 25%;
 }
