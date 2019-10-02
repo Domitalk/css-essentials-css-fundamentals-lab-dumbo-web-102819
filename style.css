@@ -26,6 +26,7 @@ section#featured-property img {
 
 
 section#featured-property figcaption {
+  text-align: center;
   font-size: 14px;
 }
 
